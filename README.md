@@ -48,7 +48,7 @@ java -cp bin MainProcess
 <img width="600" height="400" alt="Captura de pantalla 2025-10-20 180320" src="https://github.com/user-attachments/assets/b486f6bd-133b-47f9-81f9-1f27807f7f5f" />
 
 
-<img width="950" height="200" alt="image" src="https://github.com/user-attachments/assets/88a01880-2541-483e-b25a-3d6e77365614" /> 
+<img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/88a01880-2541-483e-b25a-3d6e77365614" /> 
 ↑
 |
 |
