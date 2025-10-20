@@ -43,4 +43,33 @@ java -cp bin MainProcess
 
 <img width="668" height="118" alt="Captura de pantalla 2025-10-20 175756" src="https://github.com/user-attachments/assets/1cd4f024-346b-4f09-bdb9-3c7cf9f1f8f0" />
 
+<img width="283" height="26" alt="image" src="https://github.com/user-attachments/assets/e8ce341a-708b-49f3-b4e2-719e859c1146" />
+
+<img width="283" height="26" alt="Captura de pantalla 2025-10-20 180301" src="https://github.com/user-attachments/assets/a8834767-ba0b-42b8-bd66-5c79ea2e220b" />
+
+<img width="465" height="147" alt="image" src="https://github.com/user-attachments/assets/88a01880-2541-483e-b25a-3d6e77365614" /> 
+↑
+|
+|
+|
+Ejemplo de que salió bien la misión
+
+(Sale en un símbolo de "?" por la tilde)
+
+<img width="834" height="151" alt="image" src="https://github.com/user-attachments/assets/613298fa-e557-4e3f-b629-9299e70ea0ba" />
+
+↑
+|
+|
+|
+
+Caso de que fue mal.
+
+
+
+
+
+
+
+
 
