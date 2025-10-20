@@ -8,8 +8,13 @@ public class MainProcess {
         List<Process> procesos = new ArrayList<>();
         List<File> resultados = new ArrayList<>();
 
-        // Leer archivo de misiones y crear subprocesos. No se me ocurre más 
+        // Asegurar que la carpeta results existe
+        File resultsDir = new File("results");
+        if (!resultsDir.exists()) {
+            resultsDir.mkdirs();
+        }
 
+        // Leer archivo de misiones y crear subprocesos
         try (BufferedReader br = new BufferedReader(new FileReader("data/misiones.txt"))) {
             String linea;
             int contador = 1;
@@ -25,9 +30,9 @@ public class MainProcess {
                 File outFile = new File("results/resultado_mision" + contador + ".txt");
                 resultados.add(outFile);
 
-                // Creamos ahora si que si los subprocesos
+                // Creamos ahora sí que sí los subprocesos con classpath
                 ProcessBuilder pb = new ProcessBuilder(
-                        "java", "MissionProcess", nombre, dificultad, integrantes
+                        "java", "-cp", "bin", "MissionProcess", nombre, dificultad, integrantes
                 );
                 pb.redirectOutput(outFile);
                 pb.redirectError(ProcessBuilder.Redirect.INHERIT);
