@@ -41,4 +41,6 @@ java -cp bin MainProcess
 - En consola aparecerá el informe global.
 - En la carpeta results/ estarán los informes individuales de cada misión.
 
+<img width="668" height="118" alt="Captura de pantalla 2025-10-20 175756" src="https://github.com/user-attachments/assets/1cd4f024-346b-4f09-bdb9-3c7cf9f1f8f0" />
+
 
