@@ -48,23 +48,14 @@ java -cp bin MainProcess
 <img width="600" height="400" alt="Captura de pantalla 2025-10-20 180320" src="https://github.com/user-attachments/assets/b486f6bd-133b-47f9-81f9-1f27807f7f5f" />
 
 
-<img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/88a01880-2541-483e-b25a-3d6e77365614" /> 
-↑
-|
-|
-|
-Ejemplo de que salió bien la misión
+<img width="1500" height="400" alt="image" src="https://github.com/user-attachments/assets/88a01880-2541-483e-b25a-3d6e77365614" /> 
+↑ Ejemplo de que salió bien la misión
 
 (Sale en un símbolo de "?" por la tilde)
 
-<img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/613298fa-e557-4e3f-b629-9299e70ea0ba" />
+<img width="1500" height="400" alt="image" src="https://github.com/user-attachments/assets/613298fa-e557-4e3f-b629-9299e70ea0ba" />
 
-↑
-|
-|
-|
-
-Caso de que fue mal.
+↑ Caso de que fue mal.
 
 
 
