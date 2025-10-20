@@ -41,14 +41,14 @@ java -cp bin MainProcess
 - En consola aparecerá el informe global.
 - En la carpeta results/ estarán los informes individuales de cada misión.
 
-<img width="800" height="200" alt="Captura de pantalla 2025-10-20 175756" src="https://github.com/user-attachments/assets/1cd4f024-346b-4f09-bdb9-3c7cf9f1f8f0" />
+<img width="1000" height="400" alt="Captura de pantalla 2025-10-20 175756" src="https://github.com/user-attachments/assets/1cd4f024-346b-4f09-bdb9-3c7cf9f1f8f0" />
 
-<img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/e8ce341a-708b-49f3-b4e2-719e859c1146" />
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/e8ce341a-708b-49f3-b4e2-719e859c1146" />
 
-<img width="400" height="200" alt="Captura de pantalla 2025-10-20 180320" src="https://github.com/user-attachments/assets/b486f6bd-133b-47f9-81f9-1f27807f7f5f" />
+<img width="600" height="400" alt="Captura de pantalla 2025-10-20 180320" src="https://github.com/user-attachments/assets/b486f6bd-133b-47f9-81f9-1f27807f7f5f" />
 
 
-<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/88a01880-2541-483e-b25a-3d6e77365614" /> 
+<img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/88a01880-2541-483e-b25a-3d6e77365614" /> 
 ↑
 |
 |
