@@ -1,0 +1,5 @@
+Derrotar bandidos;5;Asta,Yuno
+Proteger al pueblo;7;Noelle,Mimosa
+Explorar mazmorra antigua;9;Luck,Magna,Charmy
+Defender la capital;8;Yami,Asta,Noelle
+Recolectar hierbas mágicas;4;Charmy,Mimosa
